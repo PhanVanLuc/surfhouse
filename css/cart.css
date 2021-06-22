@@ -1,0 +1,125 @@
+#circle {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #aeaeae;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background: none;
+    text-align: center;
+    margin-top: 10px;
+  } 
+  .circle_active{
+    color: red;
+    display: flex;
+    margin-left: 0px;
+  }
+  .circle_normal {
+    display: flex;
+    color: #aeaeae;
+    margin-left: 0px;
+  }
+  .circle_active #circle{
+    color: red;
+    border: 1px solid red;
+  }  
+  .circle_active p {
+    margin-left: 10px;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  .circle_normal p {
+    margin-left: 10px;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  .product_name {
+    width: 38%;
+    padding-left: 10px;
+  }
+  .product_image img {
+    width: 100%;
+    height: 110px;
+    padding-left: 10px;
+  }
+  .index_prd {
+    width: 14%;
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 0px;
+  }
+  .product_image {
+    width: 15%;
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+  .index_prd button{
+    border: none;
+    background: white;
+    width: 10px;
+  }
+  .index_prd i {
+    color: #aeaeae;
+  }
+  .title {
+      width: 100%;
+    border-bottom: 1px solid #aeaeae;
+    display: flex;
+    margin-top: 10px;
+    
+  }
+  .detail {
+    width: 29%;
+    line-height: 1;
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+  .detail p {
+    color: #c0c0c0;
+  }
+
+  .cart .row{
+    margin-left: 15px; margin-right: 15px;
+  }
+  .cart p {
+    font-size: 13px;
+    color: white;
+  }
+  .cart .left_p {
+    margin-left: auto;
+      order: 2;
+  }
+  .group_social{
+    color: 333333
+
+  }
+
+  .image{
+    border: 10px solid #fff;
+    background-color: white;    
+  }
+  .image img{
+    height:232px
+  }
+  .price{
+    font-weight: bold;
+	  font-size: 0.95em;
+    float: right; 
+    
+    color: black;
+  }
+  .pro_name{
+    float: left; 
+    padding-left: 10px;
+    color: #000;
+	  font-size: 0.95em;
+	  font-weight: bold;
+  }
+  .caption{
+    height:80px;
+    padding-top: 24px;
+  }
+  .carousel-item{
+    height: 320px;
+  }
