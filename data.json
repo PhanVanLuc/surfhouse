@@ -1,0 +1,94 @@
+{
+"products": [
+    {
+      "id": 1,
+      "imageUrl": "images/pic1.jpg",
+      "title": "Lorem Ipsum 2013",
+      "price": 99
+    },
+    {
+      "id": 2,
+      "imageUrl": "images/pic2.jpg",
+      "title": "Lorem Ipsum 2014",
+      "price": 99
+    },
+    {
+      "id": 3,
+      "imageUrl": "images/pic3.jpg",
+      "title": "Lorem Ipsum 2015",
+      "price": 99
+    },
+    {
+      "id": 4,
+      "imageUrl": "images/pic4.jpg",
+      "title": "Lorem Ipsum 2016",
+      "price": 99
+    },
+    {
+      "id": 5,
+      "imageUrl": "images/pic5.jpg",
+      "title": "Lorem Ipsum 2017",
+      "price": 99
+    },
+    {
+      "id": 6,
+      "imageUrl": "images/pic6.jpg",
+      "title": "Lorem Ipsum 2018",
+      "price": 99
+    },
+    {
+      "id": 7,
+      "imageUrl": "images/pic7.jpg",
+      "title": "Lorem Ipsum 2019",
+      "price": 99
+    },
+    {
+      "id": 8,
+      "imageUrl": "images/pic8.jpg",
+      "title": "Lorem Ipsum 2020",
+      "price": 99
+    },
+    {
+      "id": 9,
+      "imageUrl": "images/pic9.jpg",
+      "title": "Lorem Ipsum 2021",
+      "price": 99
+    },
+    {
+      "id": 10,
+      "imageUrl": "images/pic10.jpg",
+      "title": "Lorem Ipsum 2022",
+      "price": 99
+    },
+    {
+      "id": 11,
+      "imageUrl": "images/pic11.jpg",
+      "title": "Dior 2021",
+      "price": 99
+    },
+    {
+      "id": 12,
+      "imageUrl": "images/pic12.jpg",
+      "title": "Dior 2022",
+      "price": 99
+    },
+    {
+      "id": 13,
+      "imageUrl": "images/pic2.jpg",
+      "title": "Dior 2022",
+      "price": 99
+    },
+    {
+      "id": 14,
+      "imageUrl": "images/pic3.jpg",
+      "title": "Dior 2022",
+      "price": 99
+    },
+    {
+      "id": 15,
+      "imageUrl": "images/pic5.jpg",
+      "title": "Dior 2022",
+      "price": 99
+    }
+  ]
+}
