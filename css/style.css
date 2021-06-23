@@ -1052,17 +1052,18 @@ ul.previous li a{
 .mens-toolbar {
 	font-family: 'Roboto', sans-serif;
 	margin-bottom: 2em;
+	margin-top: 60px;
 }
 .mens-toolbar .sort {
 	float: left;
-	width: 20.5%;
+	width: 28.5%;
 }
-.sort-by {
+.sort-by, .show {
 	color:#000;
 	font-size: 0.8125em;
 	text-transform: uppercase;
 }
-.sort-by label{
+.sort-by label, .show label{
 	font-weight:normal;
 }
 .mens-toolbar .pages {
@@ -2116,7 +2117,7 @@ p.cart_desc {
 	margin-top: 10px;
 }
 .mens-toolbar .sort {
-	width: 25.5%;
+	width: 26.5%;
 }
 .span_2_of_a1 {
 	width: 100%;
